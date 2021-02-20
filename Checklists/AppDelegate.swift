@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Checklists
 //
-//  Created by md khan on 2/19/21.
+//  Created by m khan on 2/19/21.
 //
 
 import UIKit
